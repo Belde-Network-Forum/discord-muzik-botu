@@ -1,1 +1,2 @@
-# Muzik botu powered by furkan gezer
+# Muzik Botu
+> https://forum.beldenetwork.com/
